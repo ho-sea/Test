@@ -23,3 +23,7 @@ git : 분산 버전관리 시스템
 > git status : 상태확인
 > git add [untracked 상태의 파일명]
 > git commit -m "첫번째 커밋"
+> git log
+
+git config --global user.email "you@example.com" [엔터]
+git config --global user.name "Your Name" [엔터]
